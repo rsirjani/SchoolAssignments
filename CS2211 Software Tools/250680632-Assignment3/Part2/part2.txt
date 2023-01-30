@@ -1,0 +1,18 @@
+1.	
+	a.	echo * can be used to view the contents of the of the current directory. This works since echo displays a line of text and the wildcard matches with all the contents of the current directory. 
+	b.	The -i flag ensures that the user is prompted before anything is removed. The -f flag ensures that no prompt is given. The flag that is provided second will always take precedence. 
+	c.	Rename cannot move files to another directory while mv can. Rename cannot overwrite existing files while mv can.
+	d.	ELF is an abbreviation for Executable and Linkable Format. This is an output of a compiler.
+	e.	Du takes into account the blocks of data taken up by the existence of the file itself and the data inside the file, while ls -l only counts the size of blocks of data inside the file
+2.	
+	a.	mkdir -p grandparent/parent/child
+	b.	to make a directory with spaces you need to surround the directory name with quotes. To remove it you use rm -d with quotes around the directory name.
+	c.	 mkdir -m500 directoryname
+	d.	“cd  – “ returns you to the previous directory you were in.
+	e.	Using the dirs command you are able to view the entire directory stack. You can copy paste the directory and cd to it or popd back to it.
+3.	
+	a.	chmod -v outputs a diagnostic for every file processed
+	b.	chown --reference=file1 file2, where file2’s ownership status is being copied to file1’s
+	c.	stat %A %G %U
+	d.	Remove permissions from the group on the directory but not on the file.
+	e.	If none of these are given, the effect is as if a were given, but bits that are set in the umask are not affected.
