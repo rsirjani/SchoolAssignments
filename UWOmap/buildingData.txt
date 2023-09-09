@@ -1,0 +1,3 @@
+Middlesex,MC ground floor.png,MC 1st floor.png,MC 2nd floor.png,MC 3rd floor.png,MC fourth floor.png
+Alumni Hall,AH ground floor.png,AH 1st floor.png,AH stage.png
+Health Science,HS 1st floor.png,HS 2nd floor.png,HS 3rd floor.png,HS 4th floor.png

@@ -1,0 +1,8 @@
+AH ground floor.png,1809,true
+AH ground floor.png,1975,true
+HS 1st floor.png,1563,true
+HS 1st floor.png,2046,true
+MC ground floor.png,247,true
+MC ground floor.png,804,true
+MC ground floor.png,1146,false
+MC ground floor.png,1414,false

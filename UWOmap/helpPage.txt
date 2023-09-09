@@ -1,0 +1,35 @@
+We Are Here to Help!
+
+Navigational Use:
+- Use the menu bar to get help, and create your own point of interest.
+- Use the drop down menu in the bottom right to select a building.
+- Use the lower scroll list to display and hide map layers.
+- Use the upper scroll list to navigate points of interest.
+- Click on a point of interest in the list to see room information.
+- Use the search bar above the scroll list to serach for POIs in the building, and click on the results to see room details.
+- To navigate between floors use the tabbed pane above the map.
+- Exit the Help Page by clicking the close button in the top right.
+- Favourited points of interests will be listed under the layer list.
+- The current weather is displayed in the bottom left of your screen.
+- You are automatically logged out and your work is saved when you exit the application.
+
+Editing Use:
+- To enter edit mode navigate to the tools menu and click on the drop down option to Edit POIs.
+- To create your own point of interest (POI), enter edit mode and select the location for the POI. A pop-up will launch allowing you to select the category of the POI, it's name, and provide a short description.
+- To edit a POI, enter edit mode and navigate to the POI using the list, serach bar, or scroll bars and click on the existing POI you want to edit. You will be able to change the POI name, and category type.
+- To delete a POI, enter edit mode and navigate to the POI using the list, serach bar, or scroll bars and right click on the POI you want to delete.
+- To exit edit mode, navigate once more to the tools menu and click on the drop down option to Edit POIs.
+- To favourite or unfavourite a POI navigate to the POI using the list, serach bar, or scroll bars and select the POI you want to favourite. A star icon will apear in the top left corner. Click the star icon.
+
+If you run into any more problems feel free to contact us!
+
+About:
+Name: Atlas Map Viewer: UWO Edition
+Version 1.0
+Release Date: April 6, 2023
+Contributers:
+Alysha Aul, aaul@uwo.ca
+Hirbod Hosseini, shoss2@uwo.ca
+Jacqueline Kahnert, jkahner2@uwo.ca
+Nandhitha Krishnan, nkrish6@uwo.ca
+Ramtin Sirjani, rsirjani@uwo.ca

@@ -1,0 +1,3 @@
+MC 1st floor.png,433,true
+AH ground floor.png,857,true
+MC 1st floor.png,2138,true
